@@ -20,8 +20,8 @@ My name is Kosu, Timiebi Nicholas I am a software engineer, I enjoy building sca
 ### :computer: Tech Stack
 #### LANGUAGES
 <div>
-<img src="https://github.com/timiebi/timiebi/assets/101232013/4e808eea-e68a-435b-a00b-b9abd2f2b44f" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40" />&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://github.com/timiebi/timiebi/assets/101232013/4e808eea-e68a-435b-a00b-b9abd2f2b44f" width="40" height="40" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40" /></a>&nbsp;
 </div>
 
 
