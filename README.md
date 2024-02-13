@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <img src=“https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg” title=“Python” alt=“Python” width=“40" height=“40”/>&nbsp;
     </a> -->
     <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”>
-        <img src=“https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg” title=“JavaScript” alt=“JavaScript” width=“40" height=“40”/>&nbsp;
+        <img src=“[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvegibit.com%2Fjavascript-code-structure%2F&psig=AOvVaw2S_bRWVdmq3iz8gaiTsd_N&ust=1707902229631000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCbz9_9p4QDFQAAAAAdAAAAABAJ)” title=“JavaScript” alt=“JavaScript” width=“40" height=“40”/>&nbsp;
     </a>Ï
     <a href=“https://www.typescriptlang.org/”>
         <img src=“https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg” title=“TypeScript” alt=“TypeScript” width=“40" height=“40”/>&nbsp;
