@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 My name is Kosu, Timiebi Nicholas I am a software engineer, I enjoy building scalable and efficient solutions to complex problems and contributing to open-source projects.
 <div align="center" >
-  ![kakashi](https://github.com/timiebi/timiebi/assets/101232013/9fdecb81-701f-4037-b0b8-44549ee7a13a)
+  <img src="![kakashi](https://github.com/timiebi/timiebi/assets/101232013/9fdecb81-701f-4037-b0b8-44549ee7a13a)" alt="" />
 </div>
