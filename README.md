@@ -35,8 +35,10 @@ My name is Kosu, Timiebi Nicholas I am a software engineer, I enjoy building sca
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://github.com/timiebi/timiebi/assets/101232013/4e808eea-e68a-435b-a00b-b9abd2f2b44f" width="40" height="40" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40" /></a>&nbsp;
 </div>
-
+</br>
+</br>
+</br>
 <p>PS: Today is a new day a new life and a new opportunity to become a better you</p>
 <div >
-  <img src="https://github.com/timiebi/timiebi/assets/101232013/9fdecb81-701f-4037-b0b8-44549ee7a13a" alt="" height="500" width="500" radius="10" />
+  <img src="https://github.com/timiebi/timiebi/assets/101232013/9fdecb81-701f-4037-b0b8-44549ee7a13a" alt="" height="450" width="450" radius="10px" />
 </div>
