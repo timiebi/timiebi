@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <img src=“https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg” title=“Python” alt=“Python” width=“40" height=“40”/>&nbsp;
     </a> -->
     <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”>
-        <img src=“https://github.com/timiebi/timiebi/assets/101232013/ff64e223-1b76-4036-9705-93d2366e443c” title=“JavaScript” alt=“JavaScript” width=“40" />&nbsp;
+        <img src=“https://github.com/timiebi/timiebi/assets/101232013/4e808eea-e68a-435b-a00b-b9abd2f2b44f” title=“JavaScript” alt=“JavaScript” width=“40" />&nbsp;
     </a>Ï
     <a href=“https://www.typescriptlang.org/”>
         <img src=“https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg” title=“TypeScript” alt=“TypeScript” width=“40"/>&nbsp;
