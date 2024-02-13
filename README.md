@@ -23,9 +23,9 @@ My name is Kosu, Timiebi Nicholas I am a software engineer, I enjoy building sca
 <!--     <a href=“https://www.python.org/”>
         <img src=“https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg” title=“Python” alt=“Python” width=“40" height=“40”/>&nbsp;
     </a> -->
-    <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”>
+<!--     <a href=“https://developer.mozilla.org/en-US/docs/Web/JavaScript”> -->
         <img src=“https://github.com/timiebi/timiebi/assets/101232013/4e808eea-e68a-435b-a00b-b9abd2f2b44f” title=“JavaScript” alt=“JavaScript” height="40" width=“40" />&nbsp;
-    </a>Ï
+<!--     </a>Ï -->
     <a href=“https://www.typescriptlang.org/”>
         <img src=“https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg” title=“TypeScript” alt=“TypeScript” width=“40"/>&nbsp;
     </a>
