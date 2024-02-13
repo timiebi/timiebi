@@ -38,5 +38,5 @@ My name is Kosu, Timiebi Nicholas I am a software engineer, I enjoy building sca
 
 <p>PS: Today is a new day a new life and a new opportunity to become a better you</p>
 <div align="center" >
-  <img src="https://github.com/timiebi/timiebi/assets/101232013/9fdecb81-701f-4037-b0b8-44549ee7a13a" alt="" height="150" width="150"/>
+  <img src="https://github.com/timiebi/timiebi/assets/101232013/9fdecb81-701f-4037-b0b8-44549ee7a13a" alt="" height="300" width="300" radius="10" />
 </div>
