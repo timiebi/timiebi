@@ -14,6 +14,7 @@ My name is **Kosu, Timiebi Nicholas**. I am a **software engineer** passionate a
 ### :computer: Tech Stack
 
 #### Languages & Frameworks
+
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
@@ -25,7 +26,7 @@ My name is **Kosu, Timiebi Nicholas**. I am a **software engineer** passionate a
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
   </a>&nbsp;
   <a href="https://nextjs.org/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js White"/>
   </a>&nbsp;
   <a href="https://nodejs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
