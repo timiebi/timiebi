@@ -37,7 +37,7 @@ My name is **Kosu, Timiebi Nicholas**. I am a **software engineer** passionate a
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
   </a>&nbsp;
   <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/logos/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40" alt="Tailwind CSS" />
   </a>&nbsp;
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
