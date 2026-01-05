@@ -4,9 +4,9 @@ My name is **Kosu, Timiebi Nicholas**. I am a **software engineer** passionate a
 
 <div align="center">
   <!-- Portfolio Badge -->
-  <a href="https://yourportfolio.com">
+  <!-- <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  </a> -->
 </div>
 
 ---
