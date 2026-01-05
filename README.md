@@ -4,17 +4,6 @@ My name is **Kosu, Timiebi Nicholas**. I am a **software engineer** passionate a
 
 <div id="header" align="center">
   <!-- Optional GIF or badges -->
-  <!--
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
-  <div id="badges">
-      <a href="https://www.linkedin.com/in/ebenezer-akpas-6a0792159/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://twitter.com/Ebeneze00707851">
-          <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-  </div>
-  -->
 </div>
 
 ---
@@ -24,44 +13,41 @@ My name is **Kosu, Timiebi Nicholas**. I am a **software engineer** passionate a
 #### Languages & Frameworks
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   </a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
   </a>&nbsp;
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   </a>&nbsp;
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS" />
   </a>&nbsp;
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   </a>&nbsp;
 </div>
 
 #### Tools & Platforms
 <div>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   </a>&nbsp;
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   </a>&nbsp;
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
   </a>&nbsp;
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
   </a>&nbsp;
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
   </a>&nbsp;
 </div>
 
